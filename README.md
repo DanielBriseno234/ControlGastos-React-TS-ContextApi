@@ -1,6 +1,6 @@
 # Control de Gastos - React + TypeScript + ContextApi
 
-Este proyecto permite realizar un control sobre los gastos y administrar de mejor forma tu dinero. Ha sido desarrollado utilizando React, JavaScript y Vite, junto con algunas librerías adicionales para mejorar la experiencia del usuario.
+Este proyecto permite realizar un control sobre los gastos y administrar de mejor forma tu dinero. Ha sido desarrollado utilizando React, TypeScript y Vite, junto con algunas librerías adicionales para mejorar la experiencia del usuario.
 
 ## Tecnologías Utilizadas
 
